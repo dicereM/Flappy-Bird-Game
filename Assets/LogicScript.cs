@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+
 public class LogicScript : MonoBehaviour
 {
     public float playerScore;
