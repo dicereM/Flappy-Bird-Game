@@ -1,6 +1,6 @@
-# FLABBY BIRB
+# Flappy Bird Game
 
-FLABBY BIRB is a recreation of the 2013 mobile game "Flappy Bird" made with Unity.
+Flappy Bird Game is a recreation of the 2013 mobile game "Flappy Bird" made with Unity.
 
 ## Installation
 
